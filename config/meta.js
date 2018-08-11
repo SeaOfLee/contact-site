@@ -1,20 +1,20 @@
 module.exports = {
   site: {
-    title: "Gatsby Starter Product Guy",
-    Keywords: "gatsby starter"
+    title: "Lee Richardson",
+    Keywords: ""
   },
   author: {
-    name: "name",
-    description: "personal site"
+    name: "Lee Richardson",
+    description: "contact site"
   },
   twitter: {
-    creator: "@amanhimself"
+    creator: "@leerichftw"
   },
   og: {
-    title: "Product Guy",
-    description: "personal website",
-    url: "http://gatsby-starter-product-guy.surge.sh",
-    site_name: "Product Guy",
+    title: "Lee Richardson",
+    description: "contact site",
+    url: "http://leerichardson.net",
+    site_name: "Lee Richardson",
     type: "website"
   }
 };

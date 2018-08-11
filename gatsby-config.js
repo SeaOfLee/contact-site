@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Product Guy`,
-    author: `Product Guy`,
-    description: `👋 Open Source Developer`
+    title: `Lee Richardson`,
+    author: `Lee Richardson`,
+    description: `Front End Software Engineer`
   },
   plugins: [
     {
